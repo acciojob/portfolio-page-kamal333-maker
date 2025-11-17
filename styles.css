@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body{
+	font-family:monospace;
+	margin:0;
+	background-color:grey
+}
+
+h1,h2{
+	text-align:center;
+	text-decoration:underline;
+}
+
+img{
+	background-color:black;
+	padding:15px;
+}
+
+p a{
+	color:whitesmoke;
+	text-decoration:none;
+}
